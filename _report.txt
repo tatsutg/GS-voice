@@ -2948,8 +2948,8 @@
    Free Voice 4 (Ex)                  generic          3101_VOICE_XP_FREE_D  x1
    Free Voice 5 (Ex)                  generic          3101_VOICE_XP_FREE_E  x1
    Free Voice 6 (Ex)                  generic          3101_VOICE_XP_FREE_F  x1
+   Title Call                         fallback         3101_VOICE_LOGIN  x1
    Title Call (Ex)                    fallback         3101_VOICE_TITLE_XP  x2
-   Login                              fallback         3101_VOICE_LOGIN  x1
    Loading                            fallback         3101_VOICE_LOADING  x1
    Town                               fallback         3101_VOICE_TOWN  x1
    Event                              fallback         3101_VOICE_EVENT  x1
@@ -3016,7 +3016,7 @@
    Free Voice 3                       generic          3102_VOICE_FREE_C  x1
    Free Voice 4                       generic          3102_VOICE_FREE_D  x1
    Free Voice 5                       generic          3102_VOICE_FREE_E  x1
-   Login                              fallback         3102_VOICE_LOGIN  x1
+   Title Call                         fallback         3102_VOICE_LOGIN  x1
    Loading                            fallback         3102_VOICE_LOADING  x1
    Town                               fallback         3102_VOICE_TOWN  x1
    Event                              fallback         3102_VOICE_EVENT  x1
@@ -3072,7 +3072,7 @@
    Free Voice 3                       generic          3103_VOICE_FREE_C  x1
    Free Voice 4                       generic          3103_VOICE_FREE_D  x1
    Free Voice 5                       generic          3103_VOICE_FREE_E  x1
-   Login                              fallback         3103_VOICE_LOGIN  x1
+   Title Call                         fallback         3103_VOICE_LOGIN  x1
    Loading                            fallback         3103_VOICE_LOADING  x1
    Town                               fallback         3103_VOICE_TOWN  x1
    Event                              fallback         3103_VOICE_EVENT  x1
@@ -3126,7 +3126,7 @@
    Free Voice 3                       generic          3104_VOICE_FREE_C  x1
    Free Voice 4                       generic          3104_VOICE_FREE_D  x1
    Free Voice 5                       generic          3104_VOICE_FREE_E  x1
-   Login                              fallback         3104_VOICE_LOGIN  x1
+   Title Call                         fallback         3104_VOICE_LOGIN  x1
    Loading                            fallback         3104_VOICE_LOADING  x1
    Town                               fallback         3104_VOICE_TOWN  x1
    Event                              fallback         3104_VOICE_EVENT  x1
@@ -3181,7 +3181,7 @@
    Free Voice 3                       generic          3105_VOICE_FREE_C  x1
    Free Voice 4                       generic          3105_VOICE_FREE_D  x1
    Free Voice 5                       generic          3105_VOICE_FREE_E  x1
-   Login                              fallback         3105_VOICE_LOGIN  x1
+   Title Call                         fallback         3105_VOICE_LOGIN  x1
    Loading                            fallback         3105_VOICE_LOADING  x1
    Town                               fallback         3105_VOICE_TOWN  x1
    Event                              fallback         3105_VOICE_EVENT  x1
@@ -3238,7 +3238,7 @@
    Free Voice 4                       generic          3106_VOICE_FREE_D  x1
    Free Voice 5                       generic          3106_VOICE_FREE_E  x1
    Free Voice 6                       generic          3106_VOICE_FREE_F  x1
-   Login                              fallback         3106_VOICE_LOGIN  x1
+   Title Call                         fallback         3106_VOICE_LOGIN  x1
    Loading                            fallback         3106_VOICE_LOADING  x1
    Town                               fallback         3106_VOICE_TOWN  x1
    Event                              fallback         3106_VOICE_EVENT  x1
@@ -3293,7 +3293,7 @@
    Free Voice 3                       generic          3107_VOICE_FREE_C  x1
    Free Voice 4                       generic          3107_VOICE_FREE_D  x1
    Free Voice 5                       generic          3107_VOICE_FREE_E  x1
-   Login                              fallback         3107_VOICE_LOGIN  x1
+   Title Call                         fallback         3107_VOICE_LOGIN  x1
    Loading                            fallback         3107_VOICE_LOADING  x1
    Town                               fallback         3107_VOICE_TOWN  x1
    Event                              fallback         3107_VOICE_EVENT  x1
@@ -3512,7 +3512,7 @@
    Free Voice 3                       generic          3111_VOICE_FREE_C  x1
    Free Voice 4                       generic          3111_VOICE_FREE_D  x1
    Free Voice 5                       generic          3111_VOICE_FREE_E  x1
-   Login                              fallback         3111_VOICE_LOGIN  x1
+   Title Call                         fallback         3111_VOICE_LOGIN  x1
    Loading                            fallback         3111_VOICE_LOADING  x1
    Town                               fallback         3111_VOICE_TOWN  x1
    Event                              fallback         3111_VOICE_EVENT  x1
@@ -17941,8 +17941,8 @@
    Free Voice 4 (Ex)                  generic          3101_VOICE_XP_FREE_D  x1
    Free Voice 5 (Ex)                  generic          3101_VOICE_XP_FREE_E  x1
    Free Voice 6 (Ex)                  generic          3101_VOICE_XP_FREE_F  x1
+   Title Call                         fallback         3101_VOICE_LOGIN  x1
    Title Call (Ex)                    fallback         3101_VOICE_TITLE_XP  x2
-   Login                              fallback         3101_VOICE_LOGIN  x1
    Loading                            fallback         3101_VOICE_LOADING  x1
    Town                               fallback         3101_VOICE_TOWN  x1
    Event                              fallback         3101_VOICE_EVENT  x1
@@ -17996,7 +17996,7 @@
    Free Voice 3                       generic          3103_VOICE_FREE_C  x1
    Free Voice 4                       generic          3103_VOICE_FREE_D  x1
    Free Voice 5                       generic          3103_VOICE_FREE_E  x1
-   Login                              fallback         3103_VOICE_LOGIN  x1
+   Title Call                         fallback         3103_VOICE_LOGIN  x1
    Loading                            fallback         3103_VOICE_LOADING  x1
    Town                               fallback         3103_VOICE_TOWN  x1
    Event                              fallback         3103_VOICE_EVENT  x1
@@ -18048,7 +18048,7 @@
    Free Voice 3                       generic          3102_VOICE_FREE_C  x1
    Free Voice 4                       generic          3102_VOICE_FREE_D  x1
    Free Voice 5                       generic          3102_VOICE_FREE_E  x1
-   Login                              fallback         3102_VOICE_LOGIN  x1
+   Title Call                         fallback         3102_VOICE_LOGIN  x1
    Loading                            fallback         3102_VOICE_LOADING  x1
    Town                               fallback         3102_VOICE_TOWN  x1
    Event                              fallback         3102_VOICE_EVENT  x1
@@ -18105,7 +18105,7 @@
    Free Voice 3                       generic          3111_VOICE_FREE_C  x1
    Free Voice 4                       generic          3111_VOICE_FREE_D  x1
    Free Voice 5                       generic          3111_VOICE_FREE_E  x1
-   Login                              fallback         3111_VOICE_LOGIN  x1
+   Title Call                         fallback         3111_VOICE_LOGIN  x1
    Loading                            fallback         3111_VOICE_LOADING  x1
    Town                               fallback         3111_VOICE_TOWN  x1
    Event                              fallback         3111_VOICE_EVENT  x1
